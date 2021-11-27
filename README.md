@@ -1,5 +1,7 @@
 # Github Pages Server
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoAandI/github-pages-server)
+
 This is a basic server that has the ability to sit and watch a repository's branch for updates, serving the content.
 
 ## Set up
